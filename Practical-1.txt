@@ -1,0 +1,2 @@
+50 Fahrenheit = 10.0 Celsius
+50 Celsius = 122.0 Fahrenheit
